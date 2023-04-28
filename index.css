@@ -307,7 +307,7 @@ body {
 .numbers-of-migrants {
   position: absolute;
   top: calc(50% - 122.5px);
-  left: calc(50% - 619px);
+  left: calc(50% - 639px);
   text-transform: uppercase;
   color: var(--color-white);
 }
@@ -363,23 +363,23 @@ body {
   position: absolute;
   height: calc(100% - 125px);
   top: 50px;
-  left: -250px;
+  left: -200px;
   line-height: 26px;
   font-weight: 500;
   white-space: pre-wrap;
   display: inline-block;
-  width: 1000px;
+  width: 900px;
 }
 .brief-history {
   position: absolute;
   top: 0;
-  left: -165px;
+  left: -205px;
   text-transform: capitalize;
 }
 .group-child4 {
   position: absolute;
-  bottom: 1px;
-  left: 0;
+  bottom: -10px;
+  left: -202px;
   background-color: var(--color-crimson);
   width: 186px;
   height: 5px;
@@ -715,14 +715,6 @@ body {
   background-color: var(--color-white);
   width: 186px;
   height: 5px;
-}
-.shop-now {
-  position: absolute;
-  top: calc(50% - 10.79px);
-  left: calc(50% - 39.93px);
-  letter-spacing: 0.7px;
-  text-transform: uppercase;
-  font-weight: 300;
 }
 .shop-now-wrapper {
   position: absolute;
